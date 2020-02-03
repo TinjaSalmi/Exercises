@@ -1,0 +1,37 @@
+body { 
+    margin: 30px;
+    background-color: rgb(232, 250, 211);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(151, 3, 3);
+    text-align: center;
+  }
+
+  h1 {
+    text-align: left;
+    margin-left: 350px;
+    border-bottom:rgb(151, 3, 3);
+    color: rgb(151, 3, 3);
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+a { 
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(151, 3, 3)   
+}
+
+a:hover{
+    color: tomato;
+}
+
+img{
+    float: right;
+    margin: 10px;
+}
+
+video{
+    width: 40%;
+    height: 40%;
+}
